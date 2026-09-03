@@ -1,0 +1,15 @@
+{"logged_at": "2026-08-30T08:19:08.888761+00:00", "status": "APPROVED_AND_EXECUTED", "campaign_id": "Urban_fit_store_running_Shoes", "action_id": "ACT_f402a617e9f3", "reasons": []}
+{"logged_at": "2026-08-31T11:23:01.600706+00:00", "status": "APPROVED_AND_EXECUTED", "campaign_id": "Urban_fit_store_Running_shoes", "action_id": "ACT_b6d25fc3b01a", "reasons": []}
+{"logged_at": "2026-08-31T11:29:33.252759+00:00", "status": "APPROVED_AND_EXECUTED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_44c95768075c", "reasons": []}
+{"logged_at": "2026-08-31T16:57:44.681098+00:00", "status": "DUPLICATE_SKIPPED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_44c95768075c", "reasons": ["This exact action was already executed previously."]}
+{"logged_at": "2026-09-01T06:05:26.716979+00:00", "status": "APPROVED_AND_EXECUTED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_f975c9e59a6f", "reasons": []}
+{"logged_at": "2026-09-01T07:10:51.947792+00:00", "status": "APPROVED_AND_EXECUTED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_e7d4faf98efa", "reasons": []}
+{"logged_at": "2026-09-01T08:10:29.324571+00:00", "status": "APPROVED_AND_EXECUTED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_6192c5c60418", "reasons": []}
+{"logged_at": "2026-09-01T10:48:13.400749+00:00", "status": "DUPLICATE_SKIPPED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_e7d4faf98efa", "reasons": ["This exact action was already executed previously."]}
+{"logged_at": "2026-09-01T15:29:15.230670+00:00", "status": "APPROVED_AND_EXECUTED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_540dd4ddc2b1", "reasons": []}
+{"logged_at": "2026-09-01T17:08:37.673966+00:00", "status": "APPROVED_AND_EXECUTED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_702997c2961b", "reasons": []}
+{"logged_at": "2026-09-01T17:13:01.146277+00:00", "status": "DUPLICATE_SKIPPED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_7e6e4b405b7d", "reasons": ["This exact action was already executed previously."]}
+{"logged_at": "2026-09-01T22:00:12.505626+00:00", "status": "APPROVED_AND_EXECUTED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_d4ddc9f4bd2d", "reasons": []}
+{"logged_at": "2026-09-02T19:10:49.715760+00:00", "status": "APPROVED_AND_EXECUTED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_91515711359f", "reasons": []}
+{"logged_at": "2026-09-02T19:36:59.215044+00:00", "status": "DUPLICATE_SKIPPED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_7e6e4b405b7d", "reasons": ["This exact action was already executed previously."]}
+{"logged_at": "2026-09-02T21:21:28.803044+00:00", "status": "APPROVED_AND_EXECUTED", "campaign_id": "urban_fit_store_Running_shoes", "action_id": "ACT_5704fe8c125f", "reasons": []}

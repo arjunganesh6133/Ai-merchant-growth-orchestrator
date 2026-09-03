@@ -1,0 +1,9 @@
+crewai>=1.15.0
+litellm>=1.60.0
+python-dotenv>=1.0.0
+tavily-python
+requests
+fastapi
+uvicorn
+dotenv
+razorpay

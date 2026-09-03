@@ -1,0 +1,77 @@
+{
+  "as_of_date": "2026-08-24",
+  "customers": [
+    {
+      "customer_id": "C001",
+      "last_purchase": "2026-05-26",
+      "number_of_purchases": 5,
+      "total_spend": 12500,
+      "favourite_category": "Shoes"
+    },
+    {
+      "customer_id": "C002",
+      "last_purchase": "2026-08-10",
+      "number_of_purchases": 2,
+      "total_spend": 3200,
+      "favourite_category": "Apparel"
+    },
+    {
+      "customer_id": "C003",
+      "last_purchase": "2026-03-15",
+      "number_of_purchases": 8,
+      "total_spend": 21400,
+      "favourite_category": "Shoes"
+    },
+    {
+      "customer_id": "C004",
+      "last_purchase": "2026-08-20",
+      "number_of_purchases": 1,
+      "total_spend": 1800,
+      "favourite_category": "Accessories"
+    },
+    {
+      "customer_id": "C005",
+      "last_purchase": "2026-04-02",
+      "number_of_purchases": 6,
+      "total_spend": 15600,
+      "favourite_category": "Shoes"
+    },
+    {
+      "customer_id": "C006",
+      "last_purchase": "2026-07-28",
+      "number_of_purchases": 3,
+      "total_spend": 5400,
+      "favourite_category": "Apparel"
+    }
+  ],
+  "products": [
+    {
+      "product_id": "P001",
+      "product_name": "Running Shoes",
+      "price": 3200,
+      "inventory": 42
+    },
+    {
+      "product_id": "P002",
+      "product_name": "Training Shorts",
+      "price": 1200,
+      "inventory": 75
+    },
+    {
+      "product_id": "P003",
+      "product_name": "Sports Cap",
+      "price": 600,
+      "inventory": 120
+    }
+  ],
+  "orders": [
+    {"order_id": "O001", "customer_id": "C001", "product_id": "P001", "amount": 3200, "date": "2026-05-26", "payment_status": "paid"},
+    {"order_id": "O002", "customer_id": "C001", "product_id": "P001", "amount": 3200, "date": "2026-02-10", "payment_status": "paid"},
+    {"order_id": "O003", "customer_id": "C002", "product_id": "P002", "amount": 1200, "date": "2026-08-10", "payment_status": "paid"},
+    {"order_id": "O004", "customer_id": "C003", "product_id": "P001", "amount": 3200, "date": "2026-03-15", "payment_status": "paid"},
+    {"order_id": "O005", "customer_id": "C004", "product_id": "P003", "amount": 600, "date": "2026-08-20", "payment_status": "paid"},
+    {"order_id": "O006", "customer_id": "C005", "product_id": "P001", "amount": 3200, "date": "2026-04-02", "payment_status": "paid"},
+    {"order_id": "O007", "customer_id": "C006", "product_id": "P002", "amount": 1200, "date": "2026-07-28", "payment_status": "paid"},
+    {"order_id": "O008", "customer_id": "C003", "product_id": "P002", "amount": 1200, "date": "2025-12-01", "payment_status": "paid"}
+  ]
+}

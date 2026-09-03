@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables (IMPORTANT - Contains API Keys!)
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# VS Code
+.vscode/
+
+# Generated output (regenerated on every run, don't need to be in git)
+campaign_brief_*.txt
+generated_images/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
