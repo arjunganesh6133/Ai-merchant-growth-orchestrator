@@ -100,8 +100,7 @@ Built on **CrewAI**, with a **FastAPI** wrapper (`api.py`) so the whole pipeline
 - End-to-end: structured input → grounded research → policy-checked action → Razorpay test-mode execution → measurement → adapted next-campaign proposal
 - All 4 required demo scenarios for the commerce-execution step: valid execution, rejection before Razorpay is contacted, duplicate-action prevention before Razorpay is contacted, and API-failure handled gracefully — plus a regression check confirming the local stub executor still works unaffected.
 ---
----
------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Screenshots
 
 **Art Director agent output** — one of the generated campaign visuals for the Eco-Smart Running Shoes campaign:
@@ -119,7 +118,8 @@ Built on **CrewAI**, with a **FastAPI** wrapper (`api.py`) so the whole pipeline
 **Feedback loop — adapted Campaign #2 proposal** — after measuring Campaign #1's real result (7% conversion vs. 10% target), the system proposes a re-targeted Campaign #2 with adjusted budget and audience, along with its full reasoning:
 
 ![Adapted campaign proposal](screenshots/Screenshot%202026-09-03%20004759.png)
------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+
 ## Setup
 
 ```bash
