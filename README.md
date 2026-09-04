@@ -98,16 +98,14 @@ Built on **CrewAI**, with a **FastAPI** wrapper (`api.py`) so the whole pipeline
 ## Verified working (live runs)
 
 - End-to-end: structured input → grounded research → policy-checked action → Razorpay test-mode execution → measurement → adapted next-campaign proposal
-- All 4 required demo scenarios for the commerce-execution step: valid execution, rejection before Razorpay is contacted, duplicate-action prevention before Razorpay is contacted, and API-failure handled gracefully — plus a regression check confirming the local stub executor still works unaffected
-- Benchmarking script validated against hand-checked synthetic data before being run against real logs
-
+- All 4 required demo scenarios for the commerce-execution step: valid execution, rejection before Razorpay is contacted, duplicate-action prevention before Razorpay is contacted, and API-failure handled gracefully — plus a regression check confirming the local stub executor still works unaffected.
 ---
 
 ## Setup
 
 ```bash
-git clone <https://github.com/arjunganesh6133/Ai-merchant-growth-orchestrator.git>
-cd <Ai-merchant-growth-orchestrator>
+git clone https://github.com/arjunganesh6133/Ai-merchant-growth-orchestrator.git
+cd Ai-merchant-growth-orchestrator
 python -m venv venv
 venv\Scripts\Activate.ps1        # Windows.
 
