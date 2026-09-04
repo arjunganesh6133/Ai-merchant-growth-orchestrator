@@ -126,7 +126,7 @@ Built on **CrewAI**, with a **FastAPI** wrapper (`api.py`) so the whole pipeline
 git clone https://github.com/arjunganesh6133/Ai-merchant-growth-orchestrator.git
 cd Ai-merchant-growth-orchestrator
 python -m venv venv
-venv\Scripts\Activate.ps1        # Windows.
+venv\Scripts\Activate.ps1        # Windows
 
 
 pip install -r requirements.txt
